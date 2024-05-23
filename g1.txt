@@ -1,2 +1,5 @@
 
-This is g1 file
+this is g1 file
+Second time
+:wq
+
